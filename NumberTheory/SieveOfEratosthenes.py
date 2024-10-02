@@ -1,7 +1,14 @@
 def SieveOfEratosthenes(n):
+    '''
+    Returns an array consisting the information about whether a number is a prime.
+    Args:
+        n - upper bound
+    Returns:
+        Array with 1 if the number corresponding to the index is not a prime and 0 if a prime
+    '''
     sieve = [0 for i in range(n+1)]
     for i in range(2,n+1):
-        if sieve[i] == 0:
+        if not sieve[i]:
             for j in range(2*i,n+1,i):
                 sieve[j] = 1
 
