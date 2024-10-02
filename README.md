@@ -21,4 +21,4 @@ Welcome to the **Mathematical Algorithms Repository**! This repository contains 
 To use the algorithms in this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/mathematical-algorithms.git
+git clone https://github.com/athulya24453/Mathematics_Algorithms.git
