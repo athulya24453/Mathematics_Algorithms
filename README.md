@@ -8,8 +8,6 @@ Welcome to the **Mathematical Algorithms Repository**! This repository contains 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms](#algorithms)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
